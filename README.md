@@ -37,6 +37,9 @@ pip install -r requirements.txt
 }
 ```
 4. 在目录下查看铭文同名Txt文档.
+   ```
+   data:,{"p":"erc-20","op":"mint","tick":"Facetss","id":"40","amt":"1000"}
+   ```
 ## 要求 
   - Python 3.8 或以上版本
 ## 联系方式:
