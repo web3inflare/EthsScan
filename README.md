@@ -14,7 +14,7 @@ git clone https://github.com/web3inflare/EthsScan.git
 ```
 pip install -r requirements.txt
 ```
-3.修改并配置 Scan_Config.json 文件，用于指定参数和配置信息。示例配置如下
+3. 修改并配置 Scan_Config.json 文件，用于指定参数和配置信息。示例配置如下
 ```
 {
   "task_thread": 10,  // 同时进行几个铭文
@@ -36,6 +36,7 @@ pip install -r requirements.txt
   ]
 }
 ```
+4. 在目录下查看铭文同名Txt文档.
 ## 要求 
   - Python 3.8 或以上版本
 ## 联系方式:
