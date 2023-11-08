@@ -1,0 +1,19 @@
+{
+  "task_thread": 10,
+  "work_thread": 10,
+  "proxy": "",
+  "tick_list": [
+    {
+      "tick": "Facet",
+      "start_number": 30,
+      "end_number": 40,
+      "amt": 1000
+    },
+        {
+      "tick": "Facetss",
+      "start_number": 30,
+      "end_number": 40,
+      "amt": 1000
+    }
+  ]
+}
